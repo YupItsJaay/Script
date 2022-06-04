@@ -1405,7 +1405,7 @@ Clip = true
     Library:SetWatermarkVisibility(false)
     Library.KeybindFrame.Visible = false; -- todo: add a function for this
     
-    Library:SetWatermark('discord.gg/Zya7gW5pBs)
+    Library:SetWatermark('discord.gg/Zya7gW5pBs')
     
     
     
