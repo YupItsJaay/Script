@@ -1789,7 +1789,7 @@ Clip = true
     local Credits = Tabs.Settings:AddRightGroupbox('Credits')
     
     Credits:AddLabel('Jaay#1111 - owner/developer')
-    Credits:AddLabel('Giannis#9999 - Tester')
+    Credits:AddLabel('Giannis#9999 - Owner')
     
     
     
