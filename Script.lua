@@ -44,7 +44,7 @@ local ispremium = loadstring(game:HttpGet(repo .. 'premium.lua'))()
 function loadscript() 
     local load = tick()
 --[[local scriptversion = "2.1.2"
-    local invite = "fraudz"]]
+    local invite = "airs"]]
 
     local rainbowcolor = Color3.new(1,1,1)
     
